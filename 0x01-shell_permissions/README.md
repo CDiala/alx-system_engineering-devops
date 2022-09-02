@@ -4,4 +4,5 @@
 3. Script to change ownership of a file to a new user.
 4. Script to create an empty file.
 5. Script to assign execute permission to a file for the current user
-6. Script to assign executable to everyone. 
+6. Script to assign executable to everyone.
+7. Script to assign James Bond permission. 
