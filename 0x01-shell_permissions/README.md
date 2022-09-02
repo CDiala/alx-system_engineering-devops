@@ -3,3 +3,4 @@
 2. Script to list user's groups.
 3. Script to change ownership of a file to a new user.
 4. Script to create an empty file.
+5. Script to assign execute permission to a file for the current user 
