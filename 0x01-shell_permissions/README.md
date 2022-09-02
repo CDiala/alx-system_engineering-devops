@@ -8,4 +8,5 @@
 7. Script to assign James Bond permission.
 10. Script to set mode of file.
 11. Script that adds execute permissions to all subdirectories. 
-12. Script to create directory with permission. 
+12. Script to create directory with permissioni.
+13. Script to assign a group owner to a file. 
