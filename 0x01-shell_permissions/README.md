@@ -6,4 +6,5 @@
 5. Script to assign execute permission to a file for the current user
 6. Script to assign executable to everyone.
 7. Script to assign James Bond permission.
-8. Script to set mode of file. 
+10. Script to set mode of file.
+11. Script that adds execute permissions to all subdirectories.  
