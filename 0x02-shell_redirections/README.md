@@ -3,4 +3,5 @@
 1. Script that displays a confused smiley "(Ôo)'.
 2. Script to display the content of the /etc/passwd file.
 3. Script to display the content of /etc/passwd and /etc/hosts.
-4. Script to display the last 10 lines of /etc/passwd. 
+4. Script to display the last 10 lines of /etc/passwd.
+5. Script to display the first 10 lines of /etc/passwd. 
