@@ -20,3 +20,6 @@
 18. Script to display all lines of the file /etc/ssh/sshd_config starting with a letter.
 19. Script to replace all characters A and c from input to Z and e respectively.
 20. Script that removes all letters c and C from input.
+21. Script that reverses its input.
+22. Script that displays all users and their home directories, sorted by users.
+23. Script that finds all empty files and directories in the current directory and all sub-directories.
