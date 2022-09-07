@@ -23,3 +23,5 @@
 21. Script that reverses its input.
 22. Script that displays all users and their home directories, sorted by users.
 23. Script that finds all empty files and directories in the current directory and all sub-directories.
+24. Script that lists all the files with a .gif extension in the current directory and all its sub-directories.
+25. Script that decodes acrostics that use the first letter of each line.
